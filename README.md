@@ -82,8 +82,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hawzhin01&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hawzhin01&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawzhin01&theme=radical&hide_border=false&layout=compact" alt="Most Used Languages" />
 </div>
 
 ## 🤝 Let's Build Something Amazing Together!
